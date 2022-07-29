@@ -1,9 +1,9 @@
 # weather
-Technologies are used:
-MVVM architecture
-hilt
-Rx java
-retrofit2
-glide
-Google maps
-OpenWeather API
+Technologies are used: /n
+MVVM architecture /n
+Hilt /n
+Rx java /n
+retrofit2 /n
+Glide /n
+Google maps /n
+OpenWeather API /n
