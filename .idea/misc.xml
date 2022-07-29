@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/projects/Weather/app/src/main/res/drawable-v24/ic_search_black_24dp.xml" value="0.1725" />
+        <entry key="..\:/projects/Weather/app/src/main/res/drawable/ic_search_black_24dp.xml" value="0.1725" />
+        <entry key="..\:/projects/Weather/app/src/main/res/layout/city_details_activity.xml" value="0.31354166666666666" />
+        <entry key="..\:/projects/Weather/app/src/main/res/layout/city_item.xml" value="0.25" />
+        <entry key="..\:/projects/Weather/app/src/main/res/layout/city_list_activity.xml" value="0.3109375" />
+        <entry key="..\:/projects/Weather/app/src/main/res/layout/splash_layout.xml" value="0.55" />
+        <entry key="..\:/projects/Weather/app/src/main/res/menu/main_actions.xml" value="0.31354166666666666" />
+        <entry key="..\:/projects/Weather/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.169" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

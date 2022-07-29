@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Weather</string>
+
+    <string name="no_data">No Data</string>
+    <string name="search">Search</string>
+    <string name="descriptions">Descriptions:</string>
+    <string name="temperature">Temperature:</string>
+    <string name="temperature_min_max">Temperature (min/max):</string>
+    <string name="air_humidity">Air humidity:</string>
+    <string name="wind_speed">Wind speed:</string>
+</resources>
